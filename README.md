@@ -88,7 +88,6 @@ Item 3:
   Material : Hard
   Price    : ₹ 69.00
   Link     : https://casekaro.com/products/...
-======================================
 
 Author
 Name:Shifa Kouser
